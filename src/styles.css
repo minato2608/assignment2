@@ -1,0 +1,92 @@
+
+.app-heading {
+     color: rgba(47, 141, 66, 0.518);
+     text-align: center;
+}
+
+#box h1{
+  position: absolute;
+  text-align: center;
+  
+  
+}
+
+
+.container {
+    max-width: 600px;
+    height: 100px;
+    margin: 0 ;
+    padding: 70px;
+    background-color: rgb(114, 150, 250);
+    margin-top: 00px;
+    position: relative;
+    margin: auto;
+  }
+  
+  .form-group {
+     margin-bottom: 15px;
+     margin-right: 50px;
+
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+  }
+  
+  .form-group button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .form-group button:hover {
+    background-color: #0056b3;
+  }
+  
+
+.event-list {
+  margin-top: 20px;
+  position: relative;
+  width: 480px;
+  margin: 30px auto 20px auto;
+  background: #fff;
+  padding: 15px;
+  border-radius: 7px;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+
+.event-list h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.event-list ul {
+  padding: 0px;
+  color: rgb(67, 23, 148);
+
+}
+
+.event-list li {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 0px;
+  background-color: #69be9c;
+ 
+}
+
+.event-list li strong {
+  font-weight: bold;
+}
+
+.event-list li span {
+  color: #666;
+  
+}
